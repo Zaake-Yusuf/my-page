@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web site</title>
+    <style>
+        .div-1{background-color: blue;
+            width: 400px;
+            border: 2px solid green;
+            padding: 20px; ;
+            margin: 10px;
+            border-radius: 4px;
+
+ 
+        }
+    </style>
+</head>
+<body>
+    
+   <div class="div-1">
+
+ <h1>My name is yusuf!</h1>
+    <P>am learning website.</P>
+    <p>web designing</p>
+    <button>start learning</button>
+
+   </div>
+
+   <div class="div-2 div">
+
+ <h1>My name is yusuf!</h1>
+    <P>am learning website.</P>
+    <p>web designing</p>
+    <button>start learning</button>
+
+   </div>
+   <div class="div-1 div">
+    <h1>money makers!</h1>
+    <p>create tributaries</p>
+    <p>over many</p>
+
+   </div>
+</body>
+</html>
